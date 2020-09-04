@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    background-color: aquamarine;
+    height: 150px;
+    align-items: center;
+}
+
+.filter {
+    background-color: blue;
+    height: 60px;
+}
+
+.input-group-addon {
+    padding: 3px;
+    color: grey;
+    background-color: white;
+    border: 1px white;
+    text-align: center;
+}
+
+.fas{
+    display: flex;
+    align-items: center;
+}
+
+.card{
+    float: left;
+    width: 32%;
+    height: 750px;
+    margin: 3px;
+    padding: 3px;
+}
